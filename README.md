@@ -36,10 +36,11 @@ crontab -r
 ```
 PS:
 ```
-1)
+1:
 If we download the data for the first time, we would like to change **download_first_time=True** in each .py file to download historical data.
 If we just want to update data, we would like to change **download_first_time=False** in each .py file to just update data.
-2)
+
+2:
 To speed the code while updating data, just comment the parts we don't need.
 
 ```
