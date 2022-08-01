@@ -9,7 +9,7 @@ Create the environment using
 ```
 Activate the environment 
 ```bash
-  conda activate wildfire
+  conda activate environmental
 ```
 
 Or:
